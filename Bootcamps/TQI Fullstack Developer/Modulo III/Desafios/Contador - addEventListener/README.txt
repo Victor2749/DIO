@@ -1,0 +1,1 @@
+Contador com a função addEventListener()
